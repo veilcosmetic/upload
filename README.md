@@ -1,2 +1,2 @@
-# video
-비코 동영상
+# upload
+viko 동영상 업로드용
